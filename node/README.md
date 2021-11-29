@@ -31,7 +31,7 @@ ACCESS_TOKEN=<your-access-token-here>
 ```
 NOTE: The access token is short lived and needs to be refreshed every 60 min.
 
-### 2. Run code
+### 3. Run code
 
 ```zsh
 npm run start
